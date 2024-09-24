@@ -8,6 +8,12 @@
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-𝐊𝐆 𝐓𝐄𝐂𝐇-blue.svg?style=for-the-badge&logo=github"></a>
 <p/>
+
+<p align="center">
+  <a href="https://kg-site-support.vercel.app/">
+    <img src="https://img.shields.io/badge/KG WEBSITE-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Generate Session ID"/>
+  </a>
+
 <p align="center">
 <a href="https://github.com/Kgtech-cmr"><img title="Author" src="https://img.shields.io/badge/KGTECH-black?style=for-the-badge&logo=Github"></a> <a href="https://chat.whatsapp.com/FpxvVBFOozA6IhNxIWhwFw"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/237656520674"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
 <p/>
@@ -79,7 +85,7 @@
 
 <br>
 
-* [`RAYAN`](https://wa.me/237656520674?text=Hi+Bro+Rayan+Big+Fan😍)
+* [`RAYAN`](https://wa.me/237659535227?text=Hi+Bro+Rayan+Big+Fan😍)
 * [`GIFFARENO`](https://wa.me/237650564445?text=Hi+Bro+Giffareno+Big+Fan😍)
  </details>
 
